@@ -14,36 +14,36 @@ with them is even harder!
 # Table of Contents
 - **[How to Choose Your Firmware](#how-to-choose-an-operating-system)**
 
-- **[Klipper](Klipper\README.md)**
-    - [Installation](Klipper\README.md#installation)
-    - [Configs](Klipper\README.md#configs)
-    - [Macros](Klipper\README.md#macros)
-    - [Nevermore Filter](Klipper\README.md#nevermore-filter)
-    - [Nozzle Alignment for 2X](Klipper\README.md#nozzle-alignment)
-    - [PrusaSlicer Profiles](Klipper\PrusaSlicer_Profiles)
+- **[Klipper](Klipper/README.md)**
+    - [Installation](Klipper/README.md#installation)
+    - [Configs](Klipper/README.md#configs)
+    - [Macros](Klipper/README.md#macros)
+    - [Nevermore Filter](Klipper/README.md#nevermore-filter)
+    - [Nozzle Alignment for 2X](Klipper/README.md#nozzle-alignment)
+    - [PrusaSlicer Profiles](Klipper/PrusaSlicer_Profiles)
 
 - **[Sailfish](Sailfish\README.md)**
-    - [Installation](Sailfish\README.md#installation)
-    - [ReplicatorG](Sailfish\ReplicatorG)
-    - [Nozzle Alignment]()
-    - [GPX](Sailfish\GPX)
-    - [GPXUi](Sailfish\GPXUi)
-    - [PrusaSlicer Profiles](Sailfish\PrusaSlicer_Profiles)
+    - [Installation](Sailfish/README.md#installation)
+    - [ReplicatorG](Sailfish/ReplicatorG)
+    - [Nozzle Alignment](Sailfish/README.md#nozzle-alignment)
+    - [GPX](Sailfish/GPX)
+    - [GPXUi](Sailfish/GPXUi)
+    - [PrusaSlicer Profiles](Sailfish/PrusaSlicer_Profiles)
 
 - **[Hardware](Hardware\README.md)**
-    - [Chamber Temperature Sensor](Hardware\README.md#chamber-temperature-sensor)
-    - [BLTouch](Hardware\README.md#bltouch)
-    - [Buildplate Thermal Expansion](Hardware\README.md#buildplate-thermal-expansion)
+    - [Chamber Temperature Sensor](Hardware/README.md#chamber-temperature-sensor)
+    - [BLTouch](Hardware/README.md#bltouch)
+    - [Buildplate Thermal Expansion](Hardware/README.md#buildplate-thermal-expansion)
 
 - **[Printed Parts](Printed_Parts\README.md)**
 
 - **[Documentation](Documentation\README.md)**
     - [BOMs](Documentation/BOMs)
-    - [CAD Assembiles](Documentation\CAD_Assemblies)
-    - [Mightyboard](Documentation\Mightyboard\README.md)
-        - [Revision E](Documentation\Mightyboard\Mightyboard_Rev_E)
-        - [Revision G](Documentation\Mightyboard\Mightyboard_Rev_G)
-        - [Revision H](Documentation\Mightyboard\Mightyboard_Rev_H)
+    - [CAD Assembiles](Documentation/CAD_Assemblies)
+    - [Mightyboard](Documentation/Mightyboard/README.md)
+        - [Revision E](Documentation/Mightyboard/Mightyboard_Rev_E)
+        - [Revision G](Documentation/Mightyboard/Mightyboard_Rev_G)
+        - [Revision H](Documentation/Mightyboard/Mightyboard_Rev_H)
 
 # Description of Main Directories
 
