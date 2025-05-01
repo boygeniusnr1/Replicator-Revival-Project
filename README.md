@@ -22,7 +22,7 @@ with them is even harder!
     - [Nozzle Alignment for 2X](Klipper/README.md#nozzle-alignment)
     - [PrusaSlicer Profiles](Klipper/PrusaSlicer_Profiles)
 
-- **[Sailfish](Sailfish\README.md)**
+- **[Sailfish](Sailfish/README.md)**
     - [Installation](Sailfish/README.md#installation)
     - [ReplicatorG](Sailfish/ReplicatorG)
     - [Nozzle Alignment](Sailfish/README.md#nozzle-alignment)
@@ -30,14 +30,14 @@ with them is even harder!
     - [GPXUi](Sailfish/GPXUi)
     - [PrusaSlicer Profiles](Sailfish/PrusaSlicer_Profiles)
 
-- **[Hardware](Hardware\README.md)**
+- **[Hardware](Hardware/README.md)**
     - [Chamber Temperature Sensor](Hardware/README.md#chamber-temperature-sensor)
     - [BLTouch](Hardware/README.md#bltouch)
     - [Buildplate Thermal Expansion](Hardware/README.md#buildplate-thermal-expansion)
 
-- **[Printed Parts](Printed_Parts\README.md)**
+- **[Printed Parts](Printed_Parts/README.md)**
 
-- **[Documentation](Documentation\README.md)**
+- **[Documentation](Documentation/README.md)**
     - [BOMs](Documentation/BOMs)
     - [CAD Assembiles](Documentation/CAD_Assemblies)
     - [Mightyboard](Documentation/Mightyboard/README.md)
